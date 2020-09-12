@@ -7,6 +7,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="CK.Text" Version="9.0.1--0019-develop" />
+    <PackageReference Include="System.IO.Pipelines" Version="4.7.2" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
